@@ -20,4 +20,4 @@ This repository contains my notes for frontend fundamentals as part of my intern
 ## Status
 
 - HTML/CSS basics: Completed
-- React.js basics: In progress
+- React.js basics: Completed
