@@ -65,7 +65,7 @@ My understanding: semantic tags make the structure of a page clearer. For exampl
 
 ## 2. Forms, Tables, Lists, and Inputs
 
-## Forms
+### Forms
 
 Forms are used to collect input from users. Common examples are login forms, contact forms, search bars, and signup forms.
 
@@ -108,7 +108,7 @@ My understanding: labels are important because they make the form easier to use 
 
 ---
 
-## Lists
+### Lists
 
 Lists are used to group related items.
 
@@ -136,7 +136,7 @@ My understanding: unordered lists are for items where order does not matter, and
 
 ---
 
-## Tables
+### Tables
 
 Tables are used to show structured data in rows and columns.
 
@@ -194,7 +194,7 @@ p {
 }
 ```
 
-## Common CSS Selectors
+### Common CSS Selectors
 
 Element selector:
 
@@ -237,7 +237,7 @@ nav a {
 
 This applies to all links inside a `nav`.
 
-## Common CSS Properties
+### Common CSS Properties
 
 Some common CSS properties are:
 
@@ -264,7 +264,7 @@ Example:
 }
 ```
 
-## Margin vs Padding
+### Margin vs Padding
 
 - `margin` is space outside an element.
 - `padding` is space inside an element.
@@ -286,7 +286,7 @@ My understanding: CSS selectors decide what element gets styled, and CSS propert
 
 Flexbox and Grid are used for layouts in CSS.
 
-## Flexbox
+### Flexbox
 
 Flexbox is useful when arranging items in one direction, either row or column.
 
@@ -340,7 +340,7 @@ My understanding: Flexbox is usually the best choice when I need to align items 
 
 ---
 
-## Grid
+### Grid
 
 CSS Grid is useful for layouts with rows and columns.
 
@@ -408,7 +408,7 @@ img {
 
 This makes sure the image does not overflow outside its container.
 
-## Media Queries
+### Media Queries
 
 Media queries let CSS change depending on screen size.
 
